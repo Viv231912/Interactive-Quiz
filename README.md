@@ -15,6 +15,8 @@ This project is a simple and interactive quiz application that presents users wi
 - After selecting answers for each question, they submit the quiz.
 - The application calculates the user's score and displays it.
 - Dynamic feedback is provided based on the quiz results.
+<br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/8e7db8ec-49d1-45d3-9e8f-c69dbd3c86a9)
 
